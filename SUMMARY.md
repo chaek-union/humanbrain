@@ -31,27 +31,27 @@
 
 ## Part 4. 유전자의 기능적 수렴
 
-* [Chapter 16. 유전자는 홀로 작동하지 않는다](part4/chapter16.md)
-* [Chapter 17. 유전적 이질성에서 기능적 수렴으로](part4/chapter17.md)
-* [Chapter 18. 시공간적 수렴 — 언제, 어디서 유전자들이 모이는가](part4/chapter18.md)
-* [Chapter 19. 다면발현 — 하나의 유전자, 여러 표현형](part4/chapter19.md)
+* [Chapter 18. 유전자는 홀로 작동하지 않는다](part4/chapter18.md)
+* [Chapter 19. 유전적 이질성에서 기능적 수렴으로](part4/chapter19.md)
+* [Chapter 20. 시공간적 수렴 — 언제, 어디서 유전자들이 모이는가](part4/chapter20.md)
+* [Chapter 21. 다면발현 — 하나의 유전자, 여러 표현형](part4/chapter21.md)
 
 ## Part 5. 인간 뇌의 진화적 특성
 
-* [Chapter 20. 인간 뇌는 어떻게 달라졌는가](part5/chapter20.md)
-* [Chapter 21. 진화가 남긴 취약성](part5/chapter21.md)
-* [Chapter 22. 전이인자 — 유전체의 기생자에서 뇌 진화의 동력으로](part5/chapter22.md)
+* [Chapter 22. 인간 뇌는 어떻게 달라졌는가](part5/chapter22.md)
+* [Chapter 23. 진화가 남긴 취약성](part5/chapter23.md)
+* [Chapter 24. 전이인자 — 유전체의 기생자에서 뇌 진화의 동력으로](part5/chapter24.md)
 
 ## Part 6. 뇌 오가노이드와 어셈블로이드
 
-* [Chapter 23. 뇌 오가노이드의 탄생](part6/chapter23.md)
-* [Chapter 24. 영역 특이적 오가노이드와 어셈블로이드](part6/chapter24.md)
-* [Chapter 25. 오가노이드의 검증과 한계](part6/chapter25.md)
-* [Chapter 26. 오가노이드의 미래](part6/chapter26.md)
+* [Chapter 25. 뇌 오가노이드의 탄생](part6/chapter25.md)
+* [Chapter 26. 영역 특이적 오가노이드와 어셈블로이드](part6/chapter26.md)
+* [Chapter 27. 오가노이드의 검증과 한계](part6/chapter27.md)
+* [Chapter 28. 오가노이드의 미래](part6/chapter28.md)
 
 ## Part 7. 새로운 모달리티, 새로운 스케일
 
-* [Chapter 27. 긴길이 시퀀싱과 이소체의 세계](part7/chapter27.md)
-* [Chapter 28. Perturb-seq — 유전자 기능의 대규모 해부](part7/chapter28.md)
-* [Chapter 29. 오가노이드와 살아있는 뇌에서의 CRISPR 스크리닝](part7/chapter29.md)
+* [Chapter 29. 긴길이 시퀀싱과 이소체의 세계](part7/chapter29.md)
+* [Chapter 30. Perturb-seq — 유전자 기능의 대규모 해부](part7/chapter30.md)
+* [Chapter 31. 오가노이드와 살아있는 뇌에서의 CRISPR 스크리닝](part7/chapter31.md)
 * [에필로그. 협업이 만든 과학](part7/epilogue.md)
