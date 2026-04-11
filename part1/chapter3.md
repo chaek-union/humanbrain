@@ -54,3 +54,18 @@ Kang, H. J., Kawasawa, Y. I., Cheng, F., Zhu, Y., Xu, X., Li, M., ... & Sestan, 
 Fietz, S. A., Kelava, I., Vogt, J., Wilsch-Bräuninger, M., Stenzel, D., Fish, J. L., ... & Huttner, W. B. (2010). OSVZ progenitors of human and ferret neocortex are epithelial-like and expand by integrin signaling. *Nature Neuroscience*, 13(6), 690-699.
 
 Hansen, D. V., Lui, J. H., Parker, P. R., & Kriegstein, A. R. (2010). Neurogenic radial glia in the outer subventricular zone of human neocortex. *Nature*, 464(7288), 554-561.
+
+
+---
+
+> **주요 용어 안내**
+>
+> **레이저 미세절제(laser microdissection, LMD)**: 현미경으로 조직을 관찰하면서 레이저 빔으로 원하는 부위만 정밀하게 잘라내는 기술. 일반 메스로는 분리할 수 없는 얇은 조직 층을 개별적으로 수집할 수 있다.
+>
+> **in situ hybridization(ISH)**: 조직 절편에서 특정 RNA를 직접 염색하여 현미경으로 관찰하는 기술. 어떤 세포에서 어떤 유전자가 발현되는지를 공간적으로 보여준다.
+>
+> **방사 글리아(radial glia)**: 한쪽 끝이 뇌실 표면에, 다른 쪽 끝이 피질 표면에 붙어 있는 긴 세포. 새로 태어난 뉴런이 이동하는 경로를 제공하며, 동시에 뉴런을 만들어내는 신경 줄기세포 역할도 한다.
+>
+> **전사 구배(transcriptional gradient)**: 뇌의 한쪽에서 다른 쪽으로 갈수록 유전자 발현 패턴이 연속적으로 변하는 현상. 무지개처럼 뚝 끊기지 않고 서서히 달라지는 것을 말한다.
+>
+> **비지도 분석(unsupervised analysis)**: 컴퓨터에게 사전 정보를 주지 않고, 데이터의 유사도만으로 그룹을 나누도록 하는 분석 방법. 분석자의 편견 없이 데이터가 스스로 보여주는 구조를 발견할 수 있다.
