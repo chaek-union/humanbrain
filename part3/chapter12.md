@@ -23,9 +23,6 @@
 
 이 전환을 제어하는 핵심 인자로는 [NFIA](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA), [NFIB](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB) 같은 NFI 계열 전사 인자들이 있으며, 이들이 성상세포 유전자 프로그램을 활성화한다. 전사 인자란 특정 유전자들의 스위치를 켜거나 끄는 단백질로, NFI 인자들은 "이제 뉴런 말고 성상세포를 만들 시간이야"라는 신호를 전구세포 전체에 일제히 보내는 총지휘자 역할을 한다. Wang et al. (2025)은 이 전환 시점에 세 가지 세포 유형, 즉 GABA성 뉴런, OPC, 성상세포를 모두 만들 수 있는 삼잠재성 중간 전구세포(tripotential IPC, Tri-IPC)가 존재한다는 것을 발견했다. 이 Tri-IPC는 전사체 프로파일이 교아세포종(glioblastoma) 세포와 유사하여, 뇌 종양이 이 발달적 전환 상태를 재활성화하거나 이 상태에 머무는 것일 수 있다는 가설을 낳았다. 성상세포, 미세아교세포, 희소돌기세포는 서로 독립적인 세포 유형이지만, 발달 중에 그리고 질환 상황에서 긴밀하게 소통한다. Jin et al. (2025)은 인간 신경교가 인간 뇌 발달 단계와 일치하는 다양한 발달 집단을 형성하며, 뉴런과 성상세포 사이에 NRXN-[NLGN3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NLGN3) 신호 전달이 작동한다는 것을 키메라 뇌 실험으로 보여주었다. 이 세포들이 서로 소통하는 분자적 언어를 이해하지 않고서는, 뇌 발달과 질환의 전체 그림을 볼 수 없다.
 
----
-
----
 
 References
 
@@ -42,3 +39,18 @@ Liu, B., Zhang, Z., Bhatt, D. L., & Bhatt, D. L. (2025). Single-cell multiregion
 Sloan, S. A., Bhatt, D. L., & Bhatt, D. L. (2017). Human astrocyte maturation captured in 3D cerebral cortical spheroids derived from pluripotent stem cells. *Neuron*, 95(4), 779-790. doi:10.1016/j.neuron.2017.07.035
 
 Wang, L., Bhatt, D. L., & Bhatt, D. L. (2025). Molecular and cellular dynamics of the developing human neocortex at single-cell resolution. *Science*. doi:10.1126/science.adg3754
+
+
+---
+
+> **주요 용어 안내**
+>
+> **성상세포(astrocyte)**: 뉴런 주변을 감싸며 영양을 공급하고, 시냅스 사이의 신경전달물질 농도를 조절하며, 뇌-혈관 장벽의 유지에 참여하는 교세포. 뇌 세포의 약 절반을 차지한다.
+>
+> **글리아모세포(glioblast)**: 방사 글리아에서 분화하여 성상세포나 희소돌기세포로 발달하는 중간 단계의 전구세포. 태어난 뇌 영역에 따라 서로 다른 분자적 정체성을 가진다.
+>
+> **항상성(homeostasis)**: 생물체가 내부 환경을 일정하게 유지하는 능력. 성상세포는 뉴런 주변의 이온 농도, 신경전달물질 수준, pH를 조절하여 뇌의 항상성을 유지한다.
+>
+> **반응성 성상세포(reactive astrocyte)**: 손상이나 질환에 반응하여 유전자 발현 프로그램이 변한 성상세포. GFAP 발현이 증가하고 형태가 변하며, 염증 신호를 분비한다.
+>
+> **신경교세포발생(gliogenesis)**: 신경 전구세포에서 교세포(성상세포, 희소돌기세포)가 만들어지는 과정. 뇌 발달의 후반부에 주로 일어나며, 신경 생성(neurogenesis)에서 전환되는 시점이 중요하다.

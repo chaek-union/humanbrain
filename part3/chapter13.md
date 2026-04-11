@@ -15,9 +15,6 @@ PAM이 특히 중요한 이유는 이 세포들이 발현하는 유전자들이 
 
 미세아교세포에서 주목할 만한 성별 차이도 있다. Villa et al. (2018)은 수컷 미세아교세포가 NF-kB 매개 염증 프로그램을 더 강하게 가지는 반면, 암컷 미세아교세포는 신경 보호적이고 회복 지향적인 프로그램을 가진다는 것을 보여주었다. 수컷에서 [RUNX1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=RUNX1), [FOXM1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=FOXM1), GATA2가 높이 발현되고 NF-kB 활성이 2.4배 높은 반면, 암컷에서는 [NANOG](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NANOG), [TCF3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=TCF3) 같은 항염증 조절 인자들이 높다. 이 성별 차이는 생후 초기에 성 호르몬에 의해 설정되지만, 이후에는 세포 자율적으로(cell-autonomously) 유지된다. 자폐스펙트럼장애의 남성 편향(약 4:1 비율)이 미세아교세포의 성별 차이와 관련있을 수 있다는 가설이 제기되는 이유다. 물론 이것이 유일한 설명은 아니고 현재도 논쟁 중인 가설이지만, 뇌의 면역세포조차 성별에 따라 근본적으로 다르게 작동한다는 사실은 신경과학 연구에서 성별을 진지하게 고려해야 한다는 중요한 경고다.
 
----
-
----
 
 References
 
@@ -28,3 +25,16 @@ Li, Q., Cheng, Z., Zhou, L., Darmanis, S., Bhatt, D. L., & Bhatt, D. L. (2019). 
 Villa, A., Bhatt, D. L., & Bhatt, D. L. (2018). Sex-specific features of microglia from adult mice. *Cell Reports*, 23(12), 3501-3511. doi:10.1016/j.celrep.2018.05.048
 
 Wu, Y., Bhatt, D. L., & Bhatt, D. L. (2024). Microglial over-pruning of synapses during development in autism spectrum disorder: implications of the SCN2A risk gene. *Nature Neuroscience*. doi:10.1038/s41593-024-01680-6
+
+
+---
+
+> **주요 용어 안내**
+>
+> **미세아교세포(microglia)**: 뇌에 거주하는 면역세포. 다른 뇌 세포와 달리 태아 난황낭에서 유래하여 뇌에 정착한다. 시냅스 가지치기, 세포 잔해 청소, 병원체 방어를 담당한다.
+>
+> **시냅스 가지치기(synaptic pruning)**: 발달 과정에서 과도하게 형성된 시냅스를 선택적으로 제거하는 과정. 미세아교세포가 보체 단백질(C1q, C3)로 표시된 시냅스를 인식하여 포식한다.
+>
+> **항상성 미세아교세포(homeostatic microglia)**: 건강한 성인 뇌에서 P2RY12, TMEM119 등을 발현하며 조직을 감시하는 상태의 미세아교세포. 질환이나 손상 시 활성화 상태로 전환된다.
+>
+> **보체 시스템(complement system)**: 면역계에서 "이것은 처리해도 좋다"는 꼬리표를 붙이는 분자 체계. 뇌에서는 미세아교세포가 약한 시냅스에 보체 단백질을 표지하여 가지치기에 활용한다.

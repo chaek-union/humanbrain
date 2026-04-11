@@ -29,9 +29,6 @@
 
 뇌 전체에 걸쳐 흥분성 뉴런의 분류 체계가 얼마나 복잡한지를 이해하려면, 피질과 해마를 넘어 시상, 시상하부, 뇌간, 소뇌를 살펴봐야 한다. Siletti et al. (2023)이 3백만 개 이상의 세포를 분석한 전뇌 아틀라스에서, 텔렌세팔론 바깥의 뉴런들이 텔렌세팔론의 억제성 뉴런에 전사체적으로 더 가깝다는 흥미로운 사실이 확인되었다. 이것은 텔렌세팔론 흥분성 뉴런이 진화 과정에서 상대적으로 더 최근에 분기한 세포 유형임을 시사한다. 뇌간의 도파민성 뉴런(TH+)도 세 가지 서로 다른 하위 유형(TH+[SOX6](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOX6)+, TH+[CALB1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CALB1)+, TH+[GAD2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=GAD2)+)으로 나뉘어 각기 다른 프로젝션 패턴과 기능을 가진다. 이 모든 다양성은 결국 뇌라는 기관이 정교하게 특화된 수백, 수천 가지 세포 유형의 조화로운 앙상블임을 말해준다.
 
----
-
----
 
 References
 
