@@ -26,6 +26,8 @@
 * [Chapter 13. 미세아교세포](part3/chapter13.md)
 * [Chapter 14. 희소돌기세포와 OPC](part3/chapter14.md)
 * [Chapter 15. 혈관 세포와 뇌-혈관 장벽](part3/chapter15.md)
+* [Chapter 16. 소뇌의 세포 다양성](part3/chapter16.md)
+* [Chapter 17. 시상, 시상하부, 선조체, 뇌간의 세포 지도](part3/chapter17.md)
 
 ## Part 4. 유전자의 기능적 수렴
 
@@ -51,6 +53,5 @@
 
 * [Chapter 27. 긴길이 시퀀싱과 이소체의 세계](part7/chapter27.md)
 * [Chapter 28. Perturb-seq — 유전자 기능의 대규모 해부](part7/chapter28.md)
-* [Chapter 29. 오가노이드와 In vivo에서의 CRISPR 스크리닝](part7/chapter29.md)
-* [Chapter 30. In silico 교란과 인공지능](part7/chapter30.md)
+* [Chapter 29. 오가노이드와 살아있는 뇌에서의 CRISPR 스크리닝](part7/chapter29.md)
 * [에필로그. 협업이 만든 과학](part7/epilogue.md)
