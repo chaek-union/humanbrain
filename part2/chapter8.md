@@ -51,3 +51,18 @@ Zhu, K., Bendl, J., Rahman, S., Vicari, J. M., Coleman, C., Clarence, T., ... & 
 Luo, C., Liu, H., Xie, F., Armand, E. J., Siletti, K., Bakken, T. E., ... & Mukamel, E. A. (2022). Single nucleus multi-omics identifies human cortical cell regulatory genome diversity. *Cell Genomics*, 2(3), 100107. doi:10.1016/j.xgen.2022.100107
 
 Heffel, M. G., Zhou, J., Bartlett, A., Luo, C., Lucero, J., Castanon, R., ... & Ecker, J. R. (2024). Temporally distinct 3D multi-omic dynamics in the developing human brain. *Nature*, 635(8039), 706-716. doi:10.1038/s41586-024-08030-7
+
+
+---
+
+> **주요 용어 안내**
+>
+> **후성유전체(epigenome)**: DNA 서열 자체를 바꾸지 않으면서 유전자 발현을 조절하는 화학적 변형들의 총체. DNA 메틸화, 히스톤 변형, 크로마틴 접근성, 3차원 유전체 구조가 모두 포함된다. 같은 악보를 다르게 해석하는 연주자의 주석에 비유할 수 있다.
+>
+> **DNA 메틸화(DNA methylation)**: DNA의 사이토신 염기에 메틸기(-CH3)가 붙는 화학적 변형. 유전자 근처에서 일어나면 그 유전자의 발현을 억제하는 역할을 한다. 책의 특정 페이지를 접어두어 "읽지 말라"고 표시하는 것과 비슷하다.
+>
+> **크로마틴 접근성(chromatin accessibility)**: DNA가 히스톤 단백질에 감겨 있는 정도. 크로마틴이 열려 있으면 전사인자가 접근하여 유전자를 켤 수 있고, 닫혀 있으면 접근이 차단된다. snATAC-seq로 단일 세포 수준에서 측정할 수 있다.
+>
+> **시스 조절 요소(cis-regulatory element, cCRE)**: 같은 DNA 가닥 위에서 가까운 유전자의 발현을 켜거나 끄는 비코딩 서열. 인핸서, 프로모터 등이 포함되며, 인간 뇌에서 544,735개가 확인되었다.
+>
+> **3차원 유전체 구조(3D genome organization)**: 세포핵 안에서 DNA가 접히는 방식. 멀리 떨어진 유전체 영역이 3차원 공간에서 가까이 위치하면, 인핸서가 먼 거리의 유전자를 조절할 수 있게 된다.
