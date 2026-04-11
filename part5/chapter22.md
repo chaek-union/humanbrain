@@ -13,7 +13,39 @@
 
 뉴런의 유전자 발현이 왜 인간 계통에서 이토록 빠르게 달라진 것인가? 그 단서는 유전체의 비코딩 영역에 있다. 인간 가속 영역(Human Accelerated Regions, HARs)은 포유류 전반에 걸쳐 수억 년 동안 거의 변화 없이 보존되어 있었지만, 인간 계통에서 갑자기 빠른 속도로 염기 서열이 바뀐 비코딩 구간들을 가리킨다. 수억 년의 진화 속에서 변하지 않았다는 것은 그 서열이 기능적으로 중요하다는 것을 의미한다. 한 글자만 바뀌어도 결과적으로 생존에 불리하기 때문에 보존된 것이다. 그런데 인간 계통에서 그 서열이 급격히 변했다는 것은, 그 서열에 일어난 변화가 인간의 생존이나 번식에 오히려 유리했다는 것을 시사한다. Hubisz와 Pollard (2014)는 이런 HARs가 인간 유전체에 2,701개 존재한다고 확인했는데, 이들의 평균 길이는 266bp에 불과하지만 그 기능적 영향은 매우 크다. 인간 계통에서의 염기 치환 속도는 100bp당 약 1.7회로, 침팬지의 0.2회와 비교하여 약 8.5배 높다. HARs는 신경발달 조절자와 전사인자(transcription factor) 유전자들의 주변에 집중적으로 분포하며, 그 중 다수는 태아기 뇌에서 활성화되는 인핸서로 기능한다. 가장 잘 알려진 예는 HAR1로, 피질 층화를 지시하는 카잘-레치우스(Cajal-Retzius) 뉴런에서 발현되는 RNA를 코딩한다. HAR를 생물학의 "속도 위반 구역"이라고 생각하면 된다. 수억 년간 제한 속도를 철저히 지키다가, 인간 계통에서 갑자기 8.5배 빠르게 달리기 시작한 것이다. 이런 급가속은 그냥 일어나지 않는다. 강한 자연선택이 그 변화를 유리하게 여겼다는 뜻이다. 또 다른 핵심 사례는 [FZD8](https://www.genecards.org/cgi-bin/carddisp.pl?gene=FZD8) 유전자의 인핸서인데, 인간화된 버전은 Wnt 신호를 더 강하게 구동하여 피질 확장을 촉진하며 (Boyd et al. 2015), 이 Wnt 신호의 주요 표적 유전자들을 조절하는 것이 다름 아닌 CHD8이다. 자폐스펙트럼장애의 드노보(de novo) 유전 변이 중 가장 빈번하게 발생하는 단일 유전자가 CHD8인데, 이것은 인간의 피질 확장을 가능하게 한 바로 그 분자적 기반이 신경발달 질환의 핵심 경로와 중첩된다는 것을 의미한다.
 
-Jorstad et al. (2023)의 연구는 인간 특이적 차별 발현 유전자들의 15~40%가 HARs 또는 인간 보존 결실(human-lineage Conserved Deletions, hCONDELs) 근방에 위치한다는 사실을 밝혀냈다. hCONDELs는 HARs와 정반대 방향의 진화적 변화로, 다른 영장류에서는 잘 보존된 비코딩 서열이 인간 계통에서 결실된 경우를 말한다. 무언가를 새롭게 추가하는 것이 아니라 제거함으로써 인간 특이적 특성이 생겨난다는 개념은 직관에 반하는 것처럼 보이지만, 인핸서나 전사 억제자의 결실이 유전자 발현 양상에 근본적인 변화를 초래할 수 있다는 점에서 진화적으로 충분히 합리적인 기제다. 특히 중요한 것은, 이 HARs 및 hCONDELs 연관 인간 특이적 유전자들이 시냅스 유전자들에서 두드러지게 농축되어 있다는 점이다. 인간 뇌의 신경 회로를 정교하게 만든 진화적 변화가 시냅스 단백질의 발현 조절에 집중되어 있다는 것, 그리고 동시에 자폐스펙트럼장애와 같은 신경발달 질환이 바로 이 시냅스 단백질 경로에서 집중적으로 발생한다는 것은 우연의 일치가 아니다. 인간을 인간답게 만든 유전체 변화와 인간을 신경발달 질환에 취약하게 만든 유전체 변화는 같은 장소에 새겨져 있다.
+Jorstad et al. (2023)의 연구는 인간 특이적 차별 발현 유전자들의 15~40%가 HARs 또는 인간 보존 결실(human-lineage Conserved Deletions, hCONDELs) 근방에 위치한다는 사실을 밝혀냈다. hCONDELs는 HARs와 정반대 방향의 진화적 변화로, 다른 영장류에서는 잘 보존된 비코딩 서열이 인간 계통에서 결실된 경우를 말한다. 무언가를 새롭게 추가하는 것이 아니라 제거함으로써 인간 특이적 특성이 생겨난다는 개념은 직관에 반하는 것처럼 보이지만, 인핸서나 전사 억제자의 결실이 유전자 발현 양상에 근본적인 변화를 초래할 수 있다는 점에서 진화적으로 충분히 합리적인 기제다. 특히 중요한 것은, 이 HARs 및 hCONDELs 연관 인간 특이적 유전자들이 시냅스 유전자들에서 두드러지게 빈번하게 포함되어 있다는 점이다. 인간 뇌의 신경 회로를 정교하게 만든 진화적 변화가 시냅스 단백질의 발현 조절에 집중되어 있다는 것, 그리고 동시에 자폐스펙트럼장애와 같은 신경발달 질환이 바로 이 시냅스 단백질 경로에서 집중적으로 발생한다는 것은 우연의 일치가 아니다. 인간을 인간답게 만든 유전체 변화와 인간을 신경발달 질환에 취약하게 만든 유전체 변화는 같은 장소에 새겨져 있다.
+
+
+# 극도로 보존된 서열과 뇌의 조절 장치
+
+HAR이 "빠르게 변한 보존 서열"이라면, 정반대 극단에는 "전혀 변하지 않은 서열"이 있다. 극보존 요소(ultraconserved element, UCE)란 인간과 마우스 사이에서 200 염기 이상이 100% 동일한 서열을 말한다. 인간과 마우스의 공통 조상이 약 9천만 년 전에 갈라졌다는 것을 생각하면, 9천만 년 동안 단 한 글자도 바뀌지 않았다는 것이다. 이것은 그 서열의 모든 글자가 생존에 절대적으로 중요하여, 어떤 변이든 치명적인 결과를 초래했기 때문에 제거되었다는 뜻이다. 인간 유전체에는 이런 극보존 요소가 약 479개 존재한다(Bai et al. 2025).
+
+이 극보존 요소들은 세 가지 유형으로 나뉜다. 첫째, 단백질을 코딩하는 유전자 안에 위치하여 스플라이싱(RNA에서 필요한 부분만 골라 이어붙이는 과정)을 조절하는 유형이다. 둘째, 비코딩 유전자, 특히 긴 비코딩 RNA(lncRNA)와 겹치는 유형으로, 이 유형과 겹치는 전사물의 99%가 lncRNA이며 교모세포종(glioma)과의 연관성이 보고되었다. 셋째, 유전자와 유전자 사이의 빈 공간에 위치하면서 인핸서와 유사한 크로마틴 상태를 보이는 유형이다. 이 세 번째 유형이 뇌 발달과 가장 밀접하게 관련되어 있다. 극보존 요소 근처에는 뇌 발달을 조절하는 전사인자 유전자들이 빈번하게 위치하며, 이 요소들은 3차원 유전체 구조에서 TAD(topologically associating domain, 유전체가 접혀서 형성하는 구획) 내부에 빈번하게 위치하고 경계에서는 배제된다(McCole et al. 2018). 극보존 요소가 TAD 안에 갇혀 있다는 것은, 이 요소들의 조절 기능이 같은 TAD 내의 유전자들에 한정되도록 유전체의 3차원 구조가 보장하고 있다는 뜻이다.
+
+HAR과 극보존 요소는 동전의 양면이다. 극보존 요소는 변하면 안 되기 때문에 변하지 않은 서열이고, HAR은 변해야 했기 때문에 빠르게 변한 서열이다. 둘 다 뇌 발달 유전자 주변에 집중되어 있으며, 둘 다 유전체의 비코딩 영역에 위치한다. 뇌의 유전자 조절 체계는 이처럼 절대적으로 보존되어야 할 부분과 적극적으로 변화해야 할 부분이 정교하게 구분되어 있다.
+
+이 비코딩 조절 장치들의 총량은 얼마나 되는가? 인간 뇌에서 활성화되는 시스 조절 요소(cis-regulatory element, 유전자 발현을 켜거나 끄는 데 관여하는 비코딩 DNA 서열)의 포괄적 목록이 구축되었다(Pratt et al. 2024). 그 수는 361,844개로, 다른 어떤 인체 조직보다 많다. 이 중 130,908개는 성인 뇌에서만, 108,206개는 태아 뇌에서만 활성화되며, 122,730개는 두 시기 모두에서 활성화된다. 뇌가 이토록 많은 조절 요소를 필요로 한다는 것은, 뇌의 유전자 발현이 다른 조직보다 정교하게 시공간적으로 조율되어야 함을 반영한다. 흥미로운 점은, 뇌의 조절 혁신 대부분이 완전히 새로운 요소의 등장이 아니라 기존 보존 요소 내의 서열 변화에서 비롯되었다는 것이다. 진화는 새 스위치를 만들기보다 기존 스위치의 감도를 바꾸는 방식으로 작동한 것이다.
+
+241종 포유류의 유전체를 비교한 Zoonomia 컨소시엄의 분석은 이 조절 요소들의 진화적 제약을 정밀하게 측정했다(Andrews et al. 2023). 439,461개의 제약된 시스 조절 요소와 2,024,062개의 제약된 전사인자 결합 부위가 확인되었다. 제약된 요소들은 발달 조절 유전자 근처에 집중되어 있었고, 영장류에서만 나타나는 특이적 전사인자 결합 부위의 85%는 전이인자(transposable element, Chapter 24)에서 유래한 것이었다. 전이인자가 유전체에 삽입되면서 새로운 전사인자 결합 부위를 제공한 것이다. 이 발견은 Chapter 24에서 다룰 전이인자의 조절 요소화(exaptation)와 직접 연결된다.
+
+HAR이 조절하는 유전자는 어떻게 찾을 수 있을까? 여기서 중요한 것은, 유전체에서 가장 가까운 유전자가 반드시 HAR의 표적은 아니라는 사실이다. 인핸서는 DNA가 3차원으로 접히면서 먼 거리의 유전자와 물리적으로 접촉할 수 있기 때문에, 직선 거리로는 수십만 염기 떨어진 유전자를 조절할 수 있다. 이것을 알아내려면 Hi-C라는 기법이 필요하다. Hi-C는 세포 안에서 DNA가 실제로 어떻게 접혀서 어떤 구간들이 물리적으로 맞닿아 있는지를 측정하는 방법이다. 마치 구겨진 종이에서 어떤 글자들이 서로 겹쳐 있는지를 알아내는 것과 비슷하다. 태아와 성인 피질의 Hi-C 데이터를 이용하여 1,028개 HAR을 1,648개 표적 유전자에 매핑한 결과, HAR과 연결된 유전자 중 26.3%만이 HAR에서 가장 가까운 유전자였다(Won et al. 2019). 나머지 73.7%는 직선 거리로는 멀지만 3차원 접힘을 통해 연결된 유전자였다. 이 표적 유전자들은 전뇌 패터닝, 피질 층화, 신경 이동, 축삭 안내에 관여하는 핵심 유전자들 — [EMX2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=EMX2), [PAX6](https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX6), [GLI3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLI3), [SOX2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOX2), [TBR1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBR1), [CUX1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=CUX1) — 에서 빈번하게 발견되었다. 세포 유형 특이성을 분석하면, 외측 방사 글리아(oRG)와 상층 피질(layer 2/3)에서 수렴했다. 태아기에 활성화되는 HAR과 연결된 유전자들은 자폐스펙트럼장애와 발달 지연에 연관된 유전자에서 빈번하게 발견된 반면, 성인기에 활성화되는 인간 획득 인핸서와 연결된 유전자들은 조현병 관련 유전자에서 빈번하게 발견되었다. 같은 뇌에서, 다른 시기에, 다른 질환의 위험이 서로 다른 조절 요소에 의해 매개되는 것이다.
+
+Pal et al. (2025) 연구는 인간과 침팬지의 신경줄기세포에서 Capture Hi-C를 수행하여, 이전 연구들의 7-20% 커버리지를 88.9%까지 끌어올렸다. 1,590개 HAR에 대해 2,963개의 보존된 표적 유전자가 확인되었는데, 핵심적인 발견은 HAR의 생물학적 신호가 종 특이적 표적이 아니라 보존된 표적에 집중되어 있다는 것이었다. HAR이 인간 계통에서 서열이 바뀌었더라도, 그것이 조절하는 유전자는 대부분 인간과 침팬지에서 동일했다. 진화는 완전히 새로운 유전자를 켜거나 끈 것이 아니라, 이미 존재하던 발달 프로그램의 강도와 타이밍을 조정한 것이다.
+
+HAR이 아닌 완전히 새로운 인핸서도 인간 뇌에서 발견되었다. 발달 중인 인간 신피질에서 4,066개의 인간 신규 인핸서(de novo gained enhancer)가 동정되었다(Li et al. 2022). 이 인핸서들은 마카크에서는 인핸서 활성이 없지만 인간에서는 활성화되어 있으며, 많은 경우 단 하나의 염기 변이가 인핸서를 "탄생"시킨 원인이었다. 마치 전등의 스위치가 꺼져 있었는데, 단 하나의 글자가 바뀌면서 스위치가 켜지는 것과 같다. 이렇게 만들어진 인핸서들의 핵심 전사인자 네트워크 중앙에는 [POU3F2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=POU3F2)가 자리하고 있었으며, 방사 글리아와 순환 전구세포에서 빈번하게 발견되었다.
+
+
+# HAR의 기능적 검증: 서열 변화에서 뉴런 표현형까지
+
+HAR이 존재한다는 것을 아는 것과, 그것이 실제로 무슨 일을 하는지를 증명하는 것은 완전히 다른 문제다. 수천 개의 HAR이 목록에 올라 있지만, 오랫동안 대부분의 HAR에 대해서는 "서열이 바뀌었다"는 사실 이상을 말할 수 없었다. 그 서열 변화가 어떤 유전자의 발현을 어떻게 바꾸고, 그 발현 변화가 뉴런에 어떤 영향을 주는지를 실험적으로 보여주는 것은 기술적으로 어려운 일이었다.
+
+인간과 침팬지의 유도만능줄기세포(iPSC)에서 흥분성 뉴런을 분화시키고, 두 종의 뉴런에서 크로마틴 접근성, 히스톤 변형, 전사체를 체계적으로 비교한 뒤 3,257개 HAR 후보 중 20개를 우선적으로 선정하여 CRISPRi(유전자 발현을 억제하는 CRISPR 변형)로 기능을 하나씩 검증한 결과, 20개 중 14개, 즉 약 70%에서 유전자 발현이 유의하게 변했다(Cui et al. 2025). 인간 유전체에 새겨진 "속도 위반 구역"의 대부분이 실제로 의미 있는 조절 기능을 수행하고 있었던 것이다. 세 가지 사례가 특히 주목할 만하다. 첫째, HAR202는 전사인자 [NPAS3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NPAS3)의 인핸서였는데, 인간 서열에서는 [STAT3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=STAT3) 결합이 약화되어 NPAS3의 발현이 오히려 감소했다. "가속"이 항상 "강화"를 의미하지는 않으며, 때로는 조절 방식을 줄이는 방향으로도 작동할 수 있다는 것이다. 둘째, 2xHAR.319는 [PUM2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=PUM2)라는 유전자의 발현을 높였는데, 같은 HAR이 인간 뉴런에서는 PUM2를 조절하지만 침팬지 뉴런에서는 전혀 다른 유전자인 [LAPTM4A](https://www.genecards.org/cgi-bin/carddisp.pl?gene=LAPTM4A)를 조절했다. 같은 "스위치"가 종에 따라 다른 "전등"에 연결된 것이다. 셋째, HAR26은 [SOCS2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOCS2)의 발현을 상향 조절했고 신경돌기의 성장을 촉진했는데, prime editing(원하는 염기 하나만 정확히 바꾸는 최신 유전체 편집 기술)으로 HAR26 안의 인간 특이적 변이를 침팬지 서열로 되돌리면 SOCS2 발현이 감소하고 신경돌기 성장도 줄어들었다. 특정 HAR 안의 특정 염기 변화가 특정 유전자의 발현을 바꾸고, 그것이 뉴런의 형태를 변화시킨다는 인과관계가 분자 수준에서 확인된 것이다.
+
+이런 인과 사슬을 서열 변화에서 행동까지 완전히 연결한 사례도 있다. HAR123은 [SMG6](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SMG6)라는 유전자의 인트론에 위치한 442개 염기 길이의 작은 구간으로, 수억 년 동안 포유류에서 유대류에 이르기까지 보존되어 있었지만 인간 계통에서 빠르게 변했다(Tan et al. 2025). HAR123을 CRISPR로 제거한 인간 배아줄기세포에서는 [PAX6](https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX6) 양성 세포의 비율이 줄어들어 신경전구세포 형성이 손상되었다. 마우스에서 HAR123을 제거하면 해마에서 신경세포와 교세포의 비율이 어긋나고, 인지 유연성(기존에 학습한 규칙이 바뀌었을 때 새로운 규칙으로 전환하는 능력)이 저하되었다. 도미노를 생각해보라. 442개 염기 서열의 변화 → 인핸서 기능 변화 → 유전자 발현 변화 → 신경전구세포 형성 변화 → 해마 세포 구성 변화 → 인지 행동 변화. 이 긴 인과 사슬이 하나의 HAR에서 출발하여 행동에까지 도달하는 것이다.
+
+HAR 안에서의 진화가 일방적인 강화가 아니라 미세한 균형 조절이라는 점도 주목할 만하다. 기계 학습 모델로 2,645개 HAR의 모든 변이를 점수화하고 대규모 병렬 리포터 분석(lentiMPRA)으로 검증한 결과, 714개 HAR 중 293개(31%)가 신경 전구세포에서 활성 인핸서였으며, 43%의 HAR에서 상충하는 크로마틴 효과가 공존했다(Whalen et al. 2022). 어떤 변이는 인핸서를 강화하고, 같은 HAR 안의 다른 변이는 인핸서를 약화시키는 것이다. 진화는 한 방향으로 밀어붙이는 과정이 아니라, 마치 자동차의 가속 페달과 브레이크를 동시에 조절하듯 정밀한 미세 조율의 과정이다.
+
+세포 유형 수준에서 후성유전체의 진화를 추적한 연구도 있다. 인간, 침팬지, 붉은털원숭이의 태아 및 성인 피질 단일 핵 ATAC 시퀀싱 데이터를 이용하여, 유인원 계통별로 어떤 세포 유형의 유전체 조절 요소가 가장 빠르게 변했는지를 분석한 결과, 대부분의 세포 유형에서 조절 요소들은 변이보다 보존 쪽으로 기울어져 있었다(Caglayan & Konopka 2025). 그런데 한 가지 예외가 있었다. 태아기 미세아교세포의 조절 요소가 유인원 진화 역사 전체에 걸쳐 가장 빠르게 분기해 있었다. 뇌의 면역 세포가 진화적으로 가장 활발하게 변해온 것이다. 또 하나의 역설적 발견은, 뇌 질환 관련 유전 변이들이 인간에서 빠르게 변한 조절 요소가 아니라 보존된 조절 요소에서 더 많이 포함되어 있다는 것이었다. 진화적 혁신과 질환 위험이 서로 다른 조절 층위에서 작동하는 셈이다.
 
 
 # 외측 방사 글리아와 피질 확장의 진화적 기원
@@ -65,3 +97,25 @@ Vermaercke B, Iwata R, Wierda K, Boubakar L, Rodriguez P, Ditkowska M, Bonin V, 
 Patowary A, Zhang P, Jops C, Vuong CK, Ge X, Hou K, Kim M, et al. (2024) Developmental isoform diversity in the human neocortex informs neuropsychiatric risk mechanisms. *Science* 384:eadh7688.
 
 Fang R, Xia C, Close JL, Zhang M, He J, Huang Z, Halpern AR, et al. (2022) Conservation and divergence of cortical cell organization in human and mouse revealed by MERFISH. *Science* 377:56–62.
+
+Bai Y, et al. (2025) Characterizing and decoding ultraconserved regions in the human genome. *Nature Communications* 16:2345.
+
+McCole RB, et al. (2018) Ultraconserved elements occupy specific arenas of three-dimensional mammalian genome organization. *Cell Reports* 24:479–488.
+
+Pratt HE, Zhang Y, et al. (2024) Using a comprehensive atlas and predictive models to reveal the complexity and evolution of brain-active regulatory elements. *Science Advances* 10:eadj9997.
+
+Andrews G, et al. (2023) Mammalian evolution of human cis-regulatory elements and transcription factor binding sites. *Science* 380:eabn7930.
+
+Won H, Huang J, Opland CK, Hartl CL, Geschwind DH. (2019) Human evolved regulatory elements modulate genes involved in cortical expansion and neurodevelopmental disease susceptibility. *Nature Communications* 10:2396.
+
+Pal A, Noble MA, Morales M, et al. (2025) Resolving the three-dimensional interactome of human accelerated regions during human and chimpanzee neurodevelopment. *Cell* 188:1–18.
+
+Li S, Hannenhalli S, et al. (2022) De novo human brain enhancers created by single-nucleotide mutations. *Science Advances* 8:eadd2911.
+
+Cui X, Yang H, Cai C, et al. (2025) Comparative characterization of human accelerated regions in neurons. *Nature* 639:425–434.
+
+Tan K, Higgins K, Liu Q, Wilkinson MF. (2025) An ancient enhancer rapidly evolving in the human lineage promotes neural development. *Science Advances* 11:eadt0534.
+
+Whalen S, Inoue F, et al. (2022) Machine learning dissection of human accelerated regions in primate neurodevelopment. *Neuron* 110:3996–4012.
+
+Caglayan E, Konopka G. (2025) Decoding DNA sequence-driven evolution of the human brain epigenome at cellular resolution. *Nature Communications* 16:4231.
