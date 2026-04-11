@@ -79,7 +79,7 @@ BTS 아틀라스는 벌크 전사체 시대의 시공간적 수렴 연구를 단
 
 ---
 
-**References**
+References
 
 Willsey, A. J., Sanders, S. J., Li, M., Dong, S., Tebbenkamp, A. T., Muhle, R. A., ... & State, M. W. (2013). Coexpression networks implicate human midfetal deep cortical projection neurons in the pathogenesis of autism. *Cell*, 155(5), 997–1007. doi:10.1016/j.cell.2013.10.020
 

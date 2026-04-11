@@ -41,7 +41,7 @@ Shi et al. (2026) 연구는 그 질문에 예스라고 답했다. 이 연구는 
 
 ---
 
-**References**
+References
 
 Li, C., Fleck, J. S., Martins-Costa, C., & Treutlein, B. (2023). Single-cell brain organoid screening identifies developmental defects in autism. *Nature*, 621(7978), 373-380. doi:10.1038/s41586-023-06473-y
 

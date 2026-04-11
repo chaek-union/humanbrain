@@ -64,7 +64,7 @@ FMRP 표적 유전자(FMRP target genes)에도 유의하게 빈번한 발견이 
 
 ---
 
-**References**
+References
 
 Sanders, S. J., Murtha, M. T., Gupta, A. R., Murdoch, J. D., Raubeson, M. J., Willsey, A. J., ... & State, M. W. (2012). De novo mutations revealed by whole-exome sequencing are strongly associated with autism. *Nature*, 485(7397), 237–241. doi:10.1038/nature10945
 

@@ -59,7 +59,7 @@ Bhaduri et al., He et al., Fleck et al., Pollen et al.의 연구들을 종합하
 
 ---
 
-**References**
+References
 
 Bhaduri, A., Andrews, M.G., Mancia Leon, W., Jung, D., Shin, D., Allen, D., Jung, D., Schmunk, G., Haeussler, M., Salma, J., Pollen, A.A., Nowakowski, T.J., & Kriegstein, A.R. (2020). Cell stress in cortical organoids impairs molecular subtype specification. *Nature*, 578(7793), 142–148. doi:10.1038/s41586-020-1962-0
 

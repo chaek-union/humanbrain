@@ -64,7 +64,7 @@ Voineagu et al. (2011)이 발견한 또 하나의 놀라운 결과는 전전두 
 
 ---
 
-**References**
+References
 
 Voineagu, I., Wang, X., Johnston, P., Lowe, J. K., Tian, Y., Horvath, S., ... & Geschwind, D. H. (2011). Transcriptomic analysis of autistic brain reveals convergent molecular pathology. *Nature*, 474(7351), 380–384. doi:10.1038/nature10110
 

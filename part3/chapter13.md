@@ -19,7 +19,7 @@ PAM이 특히 중요한 이유는 이 세포들이 발현하는 유전자들이 
 
 ---
 
-**References**
+References
 
 Hammond, T. R., Dufort, C., Bhatt, D. L., & Bhatt, D. L. (2019). Single-cell RNA sequencing of microglia throughout the mouse lifespan and in the injured brain reveals complex cell-state changes. *Immunity*, 50(1), 253-271. doi:10.1016/j.immuni.2018.11.004
 

@@ -45,7 +45,7 @@
 
 ---
 
-**References**
+References
 
 Pașca, S. P. (2018). The rise of three-dimensional human brain cultures. *Nature*, 553(7689), 437-445. doi:10.1038/nature25032
 

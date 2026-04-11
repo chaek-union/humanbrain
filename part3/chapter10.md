@@ -33,7 +33,7 @@
 
 ---
 
-**References**
+References
 
 Jorstad, N. L., Close, J., Johansen, N., Yanny, A. M., Barkan, E. R., Travaglini, K. J., ... & Lein, E. S. (2023). Transcriptomic cytoarchitecture reveals principles of human neocortex organization. *Science*, 382(6668), eadf6812. doi:10.1126/science.adf6812
 
@@ -44,3 +44,16 @@ Siletti, K., Tiklová, K., Speckel, T., Bhatt, D. L., & Bhatt, D. L. (2023). Tra
 Suresh, H., Bhatt, D. L., & Bhatt, D. L. (2026). Molecular dynamics of Brodmann area 22 in autism spectrum disorder. *Nature Neuroscience*. doi:10.1038/s41593-025-01954-3
 
 Velmeshev, D., Schirmer, L., Jung, D., Haeussler, M., Perez, Y., Mayer, S., ... & Bhatt, D. L. (2019). Single-cell genomics identifies cell type-specific molecular changes in autism. *Science*, 364(6441), 685-689. doi:10.1126/science.aav8130
+
+
+---
+
+> **주요 용어 안내**
+>
+> **흥분성 뉴런(excitatory neuron)**: 글루탐산(glutamate)을 신경전달물질로 사용하여 다음 뉴런을 활성화시키는 세포. 대뇌 피질 뉴런의 약 80%를 차지하며, 피질의 각 층마다 서로 다른 아형이 존재한다.
+>
+> **IT 뉴런(intratelencephalic neuron)**: 대뇌 반구 안에서 같은 쪽 또는 반대쪽 피질로 축삭을 보내는 흥분성 뉴런. 피질 뉴런 중 가장 다수를 차지한다. ET(extratelencephalic) 뉴런은 뇌간이나 척수로 투사하고, CT(corticothalamic) 뉴런은 시상으로 투사한다.
+>
+> **FEZF2/SATB2 분자 스위치**: 심층 뉴런과 상층 뉴런의 운명을 결정하는 두 전사인자. FEZF2가 높으면 심층(5/6층) 뉴런이, SATB2가 높으면 상층(2/3층) 뉴런이 된다. 두 전사인자가 서로를 억제하여 양자택일을 강제한다.
+>
+> **후성유전체 침식(epigenomic erosion)**: 질환이 진행되면서 세포의 후성유전적 표지가 점진적으로 소실되는 현상. 알츠하이머병에서 특정 흥분성 뉴런이 후성유전체 정보를 잃어가는 것이 이에 해당한다.

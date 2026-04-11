@@ -59,7 +59,7 @@ Kim et al. 연구의 4부분 체감각 어셈블로이드(hASA)는 현재 기술
 
 ---
 
-**References**
+References
 
 Jin, M., Ma, Z., Zhang, H., Dang, R., Papetti, A.V., Stillitano, A.C., Zou, L., Goldman, S.A., & Jiang, P. (2025). Chimeric brain models to study human glial-neuronal and macroglial-microglial interactions. *Cell Reports*, 44(4), 116794. doi:10.1016/j.celrep.2025.116794
 

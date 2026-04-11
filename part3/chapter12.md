@@ -27,7 +27,7 @@
 
 ---
 
-**References**
+References
 
 Allen, N. J., Bhatt, D. L., & Bhatt, D. L. (2023). Fate mapping of neural stem cells reveals the origin of astrocyte diversity in the human brain. *Nature Neuroscience*. doi:10.1038/s41593-023-01461-7
 
