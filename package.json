@@ -1,0 +1,13 @@
+{
+  "name": "humanbrain",
+  "version": "1.0.0",
+  "description": "Neurogenomics of the Human Brain - Online Textbook",
+  "main": "index.js",
+  "dependencies": {
+    "honkit": "^6.1.4"
+  },
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  }
+}
