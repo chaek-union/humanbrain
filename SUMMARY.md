@@ -39,7 +39,7 @@
 ## Part 5. 인간 뇌의 진화적 특성
 
 * [Chapter 22. 인간 뇌는 어떻게 달라졌는가](part5/chapter22.md)
-* [Chapter 23. 진화가 남긴 취약성](part5/chapter23.md)
+* [Chapter 23. 진화가 남긴 복잡성](part5/chapter23.md)
 * [Chapter 24. 전이인자 — 유전체의 기생자에서 뇌 진화의 동력으로](part5/chapter24.md)
 
 ## Part 6. 뇌 오가노이드와 어셈블로이드

@@ -1,8 +1,8 @@
-# Chapter 23. 진화가 남긴 취약성
+# Chapter 23. 진화가 남긴 복잡성
 
 진화는 최적화 알고리즘이 아니다. 자연선택은 현재의 환경에서 번식을 더 많이 하는 방향으로 작동할 뿐, 미래의 위험을 미리 계산하거나 부작용 없는 완벽한 해법을 선택할 능력이 없다. 이 단순한 사실이 의미하는 바는 매우 깊다. 어떤 유전적 변화가 지금 당장 개체의 생존과 번식에 유리하다면, 그것이 먼 미래에 다른 문제를 초래할지라도 자연선택은 그 변화를 선호한다. 인간의 뇌를 생각해 보자. 다른 어떤 동물도 갖추지 못한 언어, 추상적 사고, 도덕적 판단 능력을 가능하게 한 이 3파운드짜리 구조물은, 동시에 조현병(schizophrenia), 자폐스펙트럼장애, 양극성 장애, 주요 우울장애와 같은 질환들에 유독 취약하다. 다른 동물에서는 인간과 유사한 형태의 신경발달 질환이나 정신 질환이 자연 상태에서 이렇게 높은 빈도로 나타나지 않는다. 자폐스펙트럼장애는 인간 집단에서 약 1%의 유병률을 보이며, 조현병은 약 0.7~1%에서 발생한다. 이 수치들은 해당 질환들이 생식 성공률을 상당히 낮춤에도 불구하고, 즉 강력한 정화 선택(purifying selection)의 압박 아래 있음에도 불구하고 이 높은 빈도를 유지한다는 점에서 진화적 역설을 제기한다. 왜 자연선택은 이 취약성들을 제거하지 못했는가? 답의 일부는 복잡함 자체에 있다. 더 복잡한 기계는 더 많은 방식으로 고장날 수 있으며, 인간 뇌의 복잡성을 가능하게 한 바로 그 분자들이 동시에 고장의 원인이 된다.
 
-앞 장([Chapter 22](chapter22.md))에서 우리는 인간 뇌의 진화적 독특성이 어떻게 생겨났는지를 살펴봤다. 이 장에서는 그 반대쪽 면을 들여다본다. 진화가 인간의 뇌에 가져다준 능력이 동시에 어떤 취약성을 만들었는가. 시냅스 단백질 복합체의 유전체 중복 역사부터, 뇌 유전자들에 가해지는 강한 정화 선택의 압박, 인간 특이적 유전자 발현 변화와 신경발달 질환 위험의 분자적 연결, 그리고 인지 진화와 정신 질환 취약성이 동일한 유전적 기반에서 비롯된다는 역설까지를 추적한다.
+앞 장([Chapter 22](chapter22.md))에서 우리는 인간 뇌의 진화적 독특성이 어떻게 생겨났는지를 살펴봤다. 이 장에서는 그 복잡성이 어디에서 왔는지를 분자 수준에서 추적한다. 시냅스를 구성하는 단백질 복합체가 수억 년에 걸쳐 어떻게 팽창해왔는지, 유전체 중복이 어떻게 시냅스의 부품 수를 늘렸는지, 그리고 그 부품들이 뇌 전체에서 어떻게 다양한 조합으로 배치되어 시냅톰(synaptome)이라는 시냅스의 지도를 만들었는지를 살펴본다. 동시에, 이 복잡성이 왜 신경발달 질환에 대한 취약성과 떼어놓을 수 없는 관계에 있는지도 함께 다룬다.
 
 이 문제를 이해하는 데 있어서 관건은 단순히 "왜 나쁜 유전자가 집단에 남아 있는가"가 아니라, "왜 좋은 진화적 변화가 나쁜 임상적 결과로 이어지는가"를 묻는 것이다. 두 질문은 서로 다른 방향에서 같은 현실을 가리킨다. 첫 번째 질문은 인구유전학적 관점에서 변이의 지속성을 묻고, 두 번째는 진화생물학적 관점에서 적응과 부작용의 공진화를 묻는다. 앞으로 살펴볼 내용들은 이 두 관점이 하나의 분자적 현실에서 만난다는 것을 보여줄 것이다. 인간의 뇌를 만든 유전체는 동시에 인간의 뇌를 가장 자주, 가장 다양하게 고장 내는 유전체이기도 하다.
 
@@ -14,6 +14,34 @@
 이 팽창이 무엇을 가능하게 했는지는 행동 수준에서 확인된다. Emes & Grant (2012)는 종의 PSD 단백질체 복잡도가 그 종의 행동 다양성과 높은 상관관계를 보인다는 것을 보였다. 더 많은 PSD 단백질을 가진 종은 더 다양하고 유연한 학습 행동을 보인다. 전체 유전체 중복이 만들어낸 NMDA 수용체 소단위 가족의 기능적 분화는 인지의 다차원적 조율을 가능하게 했다. Ryan et al. (2013)은 GluN2A와 GluN2B의 C-말단 도메인이 단지 29%의 서열 동일성만을 가지면서도 학습, 불안, 운동 조율, 공간 작업 기억 등 네 가지 행동 영역을 독립적으로 조절한다는 것을 swap knock-in 실험으로 보였다. 단순한 유전자 하나에서 유전체 중복을 통해 네 가지 기능을 각각 담당하는 분자들이 분화되어 나왔고, 그 분화가 인지의 다양성을 만든 것이다. Grant (2009)가 강조한 것처럼, 포유류 PSD 단백질 복합체가 가질 수 있는 조합의 수는 이미 1,000만 개를 넘는다. 이 조합 공간의 다양성이 인지의 풍부함을 가능하게 하는 동시에, 하나의 구성 요소만 잘못되어도 전체 복합체의 기능이 왜곡될 수 있는 구조적 취약성을 만들어낸다. 공항 보안 시스템을 생각해보라. 검사 단계가 많을수록 보안이 강화되지만, 하나의 단계라도 고장나면 전체 흐름이 막힌다. PSD 복합체도 마찬가지로, 복잡성이 높아질수록 더 정교한 신호 처리가 가능하지만, 고장 포인트도 함께 늘어난다.
 
 PSD 단백질체의 진화적 팽창이 질환 부담으로 직결되는 증거는 수치에서도 뚜렷하다. Emes & Grant (2012)의 분석에서 PSD를 구성하는 유전자 130개 이상이 인간 뇌 질환과 연관되어 있으며, 자폐스펙트럼장애(47개 유전자), 조현병(54개 유전자), 지적장애(37개 유전자), 뇌전증(30개 유전자)이 상당한 중복을 보이며 이 PSD 유전자 목록을 공유한다. [SHANK3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=SHANK3), [NRXN1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NRXN1), SCN2A는 모두 PSD 복합체의 구성 요소이면서 자폐스펙트럼장애의 주요 원인 유전자다. 이것은 다면발현(pleiotropy)의 구조적 기반이다. 진화가 하나의 단백질 복합체를 팽창시키고 분화시키면서 만들어낸 각각의 구성 요소는, 인지의 서로 다른 측면을 담당하는 동시에 서로 다른 질환에 기여하도록 연결되어 있다. 시냅스 단백질이 진화한 바로 그 이유로, 시냅스 단백질의 유전 변이는 다양한 방식으로 뇌 기능을 손상시킬 수 있는 것이다.
+
+
+# 원시시냅스에서 인간 시냅스까지: 세포부착분자와 단백질체의 진화
+
+시냅스를 구성하는 단백질들은 시냅스보다 먼저 존재했다. 이 말은 직관에 어긋나는 것처럼 들리지만, 비교 유전체학이 알려주는 사실이다. 시냅스라는 구조물이 등장하기 훨씬 전, 단세포 생물에 이미 시냅스 단백질의 조상 격인 분자들이 있었다. 효모에는 신호 전달 스캐폴드 단백질과 키나아제가 약 30개 존재하며, 편모충류(choanoflagellate, 다세포 동물의 가장 가까운 단세포 친척)에서는 이 원시시냅스(protosynapse) 단백질이 약 60개로 늘어난다(Ryan & Grant 2009). 이 단백질들은 세포 안에서 외부 신호를 받아 반응하는 역할을 하고 있었다. 뉴런이 등장하면서 이 기존의 신호 전달 기구가 세포 사이의 접합부, 즉 시냅스로 배치된 것이다. 진화는 시냅스를 백지에서 설계한 것이 아니라, 이미 있던 부품들을 새로운 장소에 재배치했다.
+
+시냅스가 본격적으로 복잡해지기 시작한 것은 약 5억 년 전 척추동물의 조상이 전체 유전체 중복(whole-genome duplication)을 두 차례 겪으면서부터다. 이 사건을 1R/2R 중복이라 부른다. 유전체가 통째로 복사되면, 기존의 모든 유전자가 두 벌씩 생기고, 이 중복 유전자(paralog) 쌍은 이후 서로 다른 기능을 갖도록 분화할 수 있다. 시냅스에서 이 분화의 대표적 사례가 NMDA 수용체의 GluN2 소단위다. 무척추동물에서는 GluN2가 하나뿐이지만, 2R 중복을 거친 척추동물에서는 [GluN2A](https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2A), [GluN2B](https://www.genecards.org/cgi-bin/carddisp.pl?gene=GRIN2B), GluN2C, GluN2D의 네 가지로 분화되었다. 마찬가지로 시냅스후막의 핵심 발판 단백질인 PSD-95/MAGUK 계열도 하나에서 네 가지([DLG4](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLG4)/PSD-95, [DLG1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLG1)/SAP97, [DLG2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLG2)/chapsyn-110, [DLG3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLG3)/SAP102)로 늘어났다. 한 가지 부품으로 한 가지 일을 하던 시냅스가, 네 가지 부품으로 네 가지 다른 일을 할 수 있게 된 것이다.
+
+이 시냅스 단백질 복합체 안에는 세포부착분자(cell adhesion molecule)도 포함되어 있다. 시냅스를 형성하고 유지하려면 시냅스전 뉴런과 시냅스후 뉴런이 물리적으로 붙어 있어야 하는데, 이 접착을 담당하는 분자들이 세포부착분자다. 마치 두 사람이 악수를 하듯, 시냅스전 막의 분자와 시냅스후 막의 분자가 서로를 잡고 있는 것이다. Husi et al. (2000) 연구는 NMDA 수용체 복합체를 최초로 대규모 단백질체학으로 분석하여 77개 단백질을 동정했는데, 이 복합체 안에 N-카드헤린(N-cadherin), [L1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=L1CAM), NCAM-180, 콘택틴(contactin), 뉴로리긴(neuroligin) 같은 세포부착분자들이 포함되어 있었다. 신호를 받는 수용체, 신호를 전달하는 스캐폴드, 그리고 시냅스의 구조를 유지하는 접착 분자가 하나의 거대한 복합체 안에서 함께 작동하고 있었던 것이다. 이 복합체에서 학습에 유전적으로 필수적인 단백질이 15개 확인되었으며, 이 중 [NF1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NF1), Rsk-2, [L1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=L1CAM) 세 유전자는 인간에서 유전변이가 발생하면 학습 장애를 일으킨다.
+
+이후 인간 시냅스의 단백질 구성이 본격적으로 밝혀졌다. 인간 사후 뇌 조직에서 시냅스후막을 정제하여 질량분석기로 분석한 결과, 1,461개의 단백질이 동정되었고, 이 중 748개가 여러 연구에서 반복적으로 확인된 합의 단백질체(consensus proteome)였다(Bayés et al. 2011). 이 1,461개 단백질 중 199개 유전자에서 인간 질환을 일으키는 유전변이가 보고되어 있었고, 그 질환의 수는 269개에 달했다. 269개 질환 가운데 133개, 즉 약 절반이 신경계 질환이었다. 시냅스후막이라는 하나의 구조물에 들어 있는 단백질들이 100개가 넘는 뇌 질환과 직접 연결되어 있다는 것은, 이 구조물의 진화적 복잡성이 곧 질환 취약성의 지도이기도 하다는 사실을 보여준다. 진화적 보존 정도를 수치로 측정하면, 시냅스후막 단백질은 유전체 전체 평균이나 다른 뇌 하부 구조의 단백질보다 유의하게 높은 보존도를 보였다(dN/dS 분석에서 P < 10⁻¹⁴⁸). 시냅스후막은 유전체에서 가장 강하게 보호받는 구조물인 것이다.
+
+그렇다면 인간과 마우스의 시냅스후막은 얼마나 다른가? 두 종의 시냅스후막 단백질체를 병렬로 비교한 결과, 구성 단백질의 70% 이상이 공유되었지만, 공유 단백질 중에서도 34%는 풍부도(abundance)에서 2배 이상 차이를 보였다(Bayés et al. 2012). 특히 PSD-95/MAGUK 계열 네 구성원 중 [DLG1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLG1)과 [DLG2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLG2)는 마우스에서 더 풍부한 반면, [DLG3](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DLG3)는 인간에서 더 풍부했다. 같은 유전체 중복에서 만들어진 네 형제 유전자가 종에 따라 서로 다른 비율로 발현된다는 것은, 시냅스의 분자적 레시피가 종마다 미묘하게 다르다는 뜻이다. 인간에서 풍부한 단백질들은 세포막 역학(membrane dynamics)과 세포골격 리모델링에 관련된 것들이 많았는데, 이는 인간 시냅스가 구조적 가소성(structural plasticity, 시냅스의 형태가 활동에 따라 변하는 능력)에 더 최적화되어 있을 가능성을 시사한다.
+
+
+# 시냅톰: 뇌 전체의 시냅스 다양성 지도
+
+시냅스를 구성하는 단백질이 약 1,500가지라면, 이 단백질들의 조합은 시냅스마다 같을까? 같은 뇌 안에서도 해마의 시냅스, 소뇌의 시냅스, 선조체의 시냅스가 서로 같은 분자 구성을 가지고 있을까? 이 질문에 답하기 위해 Grant 연구팀은 시냅톰(synaptome)이라는 개념을 제안했다. 시냅톰이란 뇌 전체에 존재하는 모든 시냅스의 분자적 다양성을 지도로 나타낸 것이다. 마치 유전체(genome)가 모든 유전자의 총합이고, 전사체(transcriptome)가 모든 RNA의 총합이듯, 시냅톰은 모든 시냅스의 분자적 정체성 총합을 의미한다.
+
+이 시냅톰을 실제로 시각화하기 위해, 마우스 뇌에서 PSD-95에 초록 형광 단백질을, SAP102에 주황색 형광 단백질을 붙인 유전자 변형 마우스가 만들어졌다(Grant 2019). 이 마우스의 뇌 전체에서 약 10억 개의 시냅스를 분석한 결과, 시냅스는 37가지 아형으로 분류되었다. PSD-95만 있는 시냅스, SAP102만 있는 시냅스, 둘 다 있는 시냅스가 있고, 각각의 크기와 형태에 따라 세분화되었다. 중요한 발견은 이 37가지 아형의 비율이 뇌 영역마다 다르다는 것이었다. 피질, 해마, 시상, 선조체, 소뇌가 각각 고유한 시냅스 아형 조합, 즉 "시냅스 지문"을 가지고 있었다. 같은 뇌 안에서도 영역마다 시냅스의 분자적 레시피가 다른 것이다.
+
+이 시냅스 다양성은 시간에 따라서도 변한다. 생애주기 시냅톰 아틀라스(lifespan synaptome atlas)는 마우스의 출생부터 18개월(노년)까지 10개 시점에서 109개 뇌 영역에 걸쳐 약 50억 개의 시냅스를 추적했다(Cizeron et al. 2020). 그 결과 시냅톰 발달이 세 단계로 구분되었다. 첫 번째 단계에서는 시냅스가 빠르게 만들어지면서 뇌 영역 간 시냅스 다양성이 급격히 증가한다. 두 번째 단계에서는 시냅스 구성이 안정적으로 유지된다. 세 번째 단계(노화)에서는 시냅스 밀도가 감소하면서 크기가 커지고, 뇌 영역 간 시냅스 다양성이 감소하는 "탈분화(dedifferentiation)"가 일어난다. 어린 시절에 뇌 영역들이 각자 고유한 시냅스 정체성을 만들어가는 과정이 노화에서 역행하는 것이다.
+
+시냅스의 분자적 다양성은 수명과도 관련이 있다. 시냅스 단백질의 수명을 뇌 전체에서 측정한 결과, PSD-95의 수명은 몇 시간에서 몇 달까지 시냅스마다 크게 달랐다(Bulovaite et al. 2022). 피질과 해마에는 수명이 긴 시냅스가 풍부한 반면, 뇌간과 시상하부에는 수명이 짧은 시냅스가 풍부했다. 수명이 긴 시냅스는 기억과 학습에 관여하는 영역에 집중되어 있었고, 수명이 짧은 시냅스는 본능적 행동을 담당하는 영역에 집중되어 있었다. 노화 과정에서는 수명이 긴 시냅스가 우선적으로 보존되는 반면, 수명이 짧은 시냅스가 먼저 손실되었다. 기억을 담당하는 시냅스가 노화에 더 강한 것이다. PSD-95 유전변이를 도입하면 시냅스 단백질의 전체적인 수명이 변하는데, 이것은 자폐스펙트럼장애와 조현병의 세포 모델에서 관찰되는 현상과 일치한다.
+
+가장 최근에는 시냅스의 나노 수준 구조까지 뇌 전체에서 매핑되었다. NanoSYNMAP이라는 기술을 이용하여 PSD-95와 SAP102 초복합체(supercomplex)가 시냅스 안에서 얼마나 가까이 배치되어 있는지를 측정한 결과, 이 나노 구조가 뇌 영역마다 다르고, 발달 과정에서 변하며, 노화와 함께 재편된다는 것이 밝혀졌다(Kaizuka et al. 2026). 시냅스의 복잡성은 어떤 단백질이 있는가(구성)뿐만 아니라, 그 단백질들이 나노미터 수준에서 어떻게 배치되어 있는가(구조)에도 있는 것이다. 이 나노 구조의 차이가 시냅스의 기능적 차이를 만들어내는 분자적 논리(molecular logic)의 한 층위를 구성한다.
+
+이 모든 연구가 말해주는 메시지는 하나로 수렴한다. 시냅스는 균일한 접합부가 아니라, 뇌 영역, 발달 시기, 노화 정도에 따라 분자적 정체성이 달라지는 극도로 다양한 구조물이다. 그 다양성의 기반이 되는 약 1,500개의 시냅스 단백질에 유전변이가 발생하면 130개 이상의 뇌 질환이 초래된다. 진화가 시냅스에 쌓아올린 복잡성은 인간의 인지를 가능하게 한 동시에, 그 복잡성의 어느 한 지점이 교란되었을 때 다양한 방식으로 뇌가 고장날 수 있는 구조를 만들었다.
 
 
 # 정화 선택 아래 놓인 뇌 유전자들
@@ -68,5 +96,23 @@ Zhu X, Need AC, Bhatt DL, Goldstein DB. (2014) One gene, many neuropsychiatric d
 Boyle EA, Li YI, Pritchard JK. (2017) An expanded view of complex traits: from polygenic to omnigenic. *Cell* 169:1177–1186.
 
 Khaitovich P, Weiss M, Lachmann M, Enard W, Mukherjee S, Hellmann I, et al. (2008) Metabolic changes in schizophrenia and human brain evolution. *Genome Biology* 9:R124.
+
+Pratt HE, Zhang Y, et al. (2024) Using a comprehensive atlas and predictive models to reveal the complexity and evolution of brain-active regulatory elements. *Genome Research* 34:27–41.
+
+Husi H, Ward MA, Choudhary JS, Blackstock WP, Grant SG. (2000) Proteomic analysis of NMDA receptor-adhesion protein signaling complexes. *Nature Neuroscience* 3:661–669.
+
+Bayés À, van de Lagemaat LN, Collins MO, Croning MD, Whittle IR, Choudhary JS, Grant SG. (2011) Characterization of the proteome, diseases and evolution of the human postsynaptic density. *Nature Neuroscience* 14:19–21.
+
+Bayés À, Collins MO, Croning MD, van de Lagemaat LN, Choudhary JS, Grant SG. (2012) Comparative study of human and mouse postsynaptic proteomes finds high compositional conservation and abundance differences for key synaptic proteins. *PLoS ONE* 7:e46683.
+
+Grant SG. (2019) Synapse diversity and synaptome architecture in human genetic diseases. *Human Molecular Genetics* 28:R218–R225.
+
+Cizeron M, Qiu Z, Koniaris B, Gober R, Bhatt DK, Bhatt DL, Bhatt DL, Bhatt DL, Grant SG. (2020) A brain-wide atlas of synapses across the mouse lifespan. *Science* 369:270–275.
+
+Bulovaite E, Qiu Z, Kratschke M, et al. (2022) A brain atlas of synapse protein lifetime across the mouse lifespan. *Neuron* 110:4057–4073.
+
+Kaizuka T, Bhatt DK, Bhatt DL, et al. (2026) A brain-wide atlas of synaptic nanoarchitecture. *Science* 391:eado4077.
+
+Ryan TJ, Grant SG. (2009) The origin and evolution of synapses. *Nature Reviews Neuroscience* 10:701–712.
 
 Pratt HE, Zhang Y, Bhatt DL, et al. (2024) Using a comprehensive atlas and predictive models to reveal the complexity and evolution of brain-active regulatory elements. *Genome Research* 34:27–41.
