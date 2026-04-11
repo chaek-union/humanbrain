@@ -19,7 +19,7 @@
 
 한편, 5층의 ET(extratelencephalic) 투사 뉴런, 즉 종뇌 바깥의 뇌간이나 척수로 축삭을 보내는 뉴런들은 약 25,000개로 매우 희소하여 별도의 상위클러스터를 형성하지 못하고, 림프구 등 희귀 세포와 함께 기타(miscellaneous) 상위클러스터에 포함되었다.
 
-# 뇌간의 놀라운 이질성
+# 뇌간의 이질성
 
 피질이 대뇌를 대표한다면, 뇌간(brainstem)은 뇌의 깊은 곳에서 호흡, 심박수, 수면-각성 주기 같은 생명 유지 기능을 담당하는 구조들이다. 시상하부(hypothalamus), 중뇌(midbrain), 후뇌(hindbrain)를 포함하는 이 영역들에서 Siletti et al. 연구는 예상보다 훨씬 큰 세포 다양성을 발견했다. 피질은 넓은 면적에 걸쳐 비교적 반복적인 피질 기둥(cortical column) 구조를 가지는 반면, 시상하부나 뇌간 핵들에는 작은 공간 안에 극도로 다양한 세포들이 빽빽하게 모여 있었다. 461개의 클러스터 중 상당수가 이 뇌간 영역들에서 나왔고, 일부 클러스터들은 단 수백 개의 세포로 이루어진 매우 작은 세포 집단이었다. 이것은 단지 세포의 수가 적다는 이야기가 아니라, 아마도 매우 특수한 기능을 담당하는 뉴런들이 뇌의 깊은 곳에 소규모로 존재한다는 것을 의미한다.
 
@@ -56,3 +56,18 @@ Siletti, K., Hodge, R., Mossi Albiach, A., Lee, K. W., Ding, S. L., Hu, L., ... 
 Johansen, N., Somasundaram, S., Travaglini, K. J., Yanny, A. M., Shumyatcher, M., Casper, T., ... & Lein, E. (2023). Interindividual variation in human cortical cell type abundance and expression. *Science*, 382(6667), eadf2359. doi:10.1126/science.adf2359
 
 Jorstad, N. L., Song, J. H. T., Exposito-Alonso, D., Suresh, H., Castro-Pacheco, N., Krienen, F. M., ... & Lein, E. S. (2023). Comparative transcriptomics reveals human-specific cortical features. *Science*, 382(6667), eade9516. doi:10.1126/science.ade9516
+
+
+---
+
+> **주요 용어 안내**
+>
+> **상위클러스터(supercluster)**: 뇌 세포 분류 체계의 가장 상위 단위. 31개 상위클러스터 안에 461개 클러스터, 3,313개 하위클러스터가 포함되는 계층적 구조다. 생물 분류의 문-강-목-과-속-종에 비유할 수 있다.
+>
+> **IT 뉴런(intratelencephalic neuron)**: 대뇌 반구 안에서 같은 쪽이나 반대쪽 피질로 축삭을 보내는 흥분성 뉴런. 피질 뉴런 중 가장 다수를 차지한다.
+>
+> **파편 뉴런(splatter neuron)**: 뇌간에서 발견된, 흥분성과 억제성 마커를 동시에 발현하는 뉴런. 기존의 흥분성/억제성 이분법이 적용되지 않는 세포 집단이다.
+>
+> **개체 간 변이(interindividual variation)**: 같은 세포 유형이라도 사람마다 비율이나 유전자 발현 수준이 다른 현상. 세포 유형 정체성 자체는 보존되지만, 그 안에서의 양적 차이가 개인의 고유한 뇌 특성을 만든다.
+>
+> **상동 세포 유형(homologous cell type)**: 서로 다른 종에서 기원과 기능이 동일하여 같은 유형으로 분류할 수 있는 세포. 인간과 침팬지의 중측두이랑에서 57개 상동 세포 유형이 확인되었다.
