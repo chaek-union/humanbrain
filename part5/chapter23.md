@@ -116,3 +116,16 @@ Kaizuka T, Bhatt DK, Bhatt DL, et al. (2026) A brain-wide atlas of synaptic nano
 Ryan TJ, Grant SG. (2009) The origin and evolution of synapses. *Nature Reviews Neuroscience* 10:701–712.
 
 Pratt HE, Zhang Y, Bhatt DL, et al. (2024) Using a comprehensive atlas and predictive models to reveal the complexity and evolution of brain-active regulatory elements. *Genome Research* 34:27–41.
+
+
+---
+
+> **주요 용어 안내**
+>
+> **시냅스후막 밀도(PSD, postsynaptic density)**: 시냅스의 신호 수신부를 이루는 약 1,500개 단백질의 복합체. 전체 유전체 중복을 통해 척추동물에서 크게 팽창했으며, 130개 이상의 뇌 질환과 연결되어 있다.
+>
+> **전체 유전체 중복(whole-genome duplication)**: 유전체 전체가 통째로 복사되는 사건. 약 5억 년 전 척추동물 조상에서 두 차례(1R/2R) 일어났으며, 시냅스 단백질의 종류와 복잡성을 크게 늘렸다.
+>
+> **시냅톰(synaptome)**: 뇌 전체에 존재하는 모든 시냅스의 분자적 다양성을 나타낸 지도. 37가지 시냅스 아형이 뇌 영역마다 서로 다른 비율로 조합되어 있다.
+>
+> **정화 선택(purifying selection)**: 해로운 유전변이를 자연선택이 제거하는 과정. 뇌에서 발현되는 유전자들은 다른 조직의 유전자들보다 강한 정화 선택 아래 있다.
