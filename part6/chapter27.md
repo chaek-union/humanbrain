@@ -68,3 +68,12 @@ He, Z., Dony, L., Fleck, J.S., Szałata, A., Li, K.X., Slišković, I., Lin, H.C
 Fleck, J.S., Jansen, S.M.J., Wollny, D., Zenk, F., Seimiya, M., Jain, A., Okamoto, R., Santel, M., He, Z., Camp, J.G., & Treutlein, B. (2023). Inferring and perturbing cell fate regulomes in human brain organoids. *Nature*, 621(7978), 365–374. doi:10.1038/s41586-022-05279-8
 
 Pollen, A.A., Bhaduri, A., Andrews, M.G., Nowakowski, T.J., Meyerson, O.S., Mostajo-Radji, M.A., Di Lullo, E., Alvarado, B., Bedolli, M., Dougherty, M.L., Fiddes, I.T., Kronenberg, Z.N., Shuga, J., Leyrat, A.A., West, J.A., Bershteyn, M., Lowe, C.B., Pavlovic, B.J., Salama, S.R., Haussler, D., Eichler, E.E., & Kriegstein, A.R. (2019). Establishing cerebral organoids as models of human-specific brain evolution. *Cell*, 176(4), 743–756. doi:10.1016/j.cell.2019.01.017
+
+
+---
+
+> **주요 용어 안내**
+>
+> **전사체 충실도(transcriptomic fidelity)**: 오가노이드의 유전자 발현 패턴이 실제 태아 뇌 조직과 얼마나 유사한지를 나타내는 지표. 오가노이드의 품질을 평가하는 핵심 기준 중 하나다.
+>
+> **세포 스트레스 반응**: 오가노이드의 일부 세포에서 관찰되는, 실제 뇌에는 없는 비정상적인 유전자 발현 패턴. 배양 환경의 한계로 인한 산물이며, 오가노이드 데이터를 해석할 때 고려해야 한다.

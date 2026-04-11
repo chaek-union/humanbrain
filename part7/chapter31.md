@@ -50,3 +50,12 @@ Meng, X., Yao, D., & Pașca, S. P. (2023). Assembloid CRISPR screens reveal impa
 Fleck, J. S., Jansen, S. M. J., Wollny, D., Zenk, F., Seimiya, M., Jain, A., ... & Treutlein, B. (2023). Inferring and perturbing cell fate regulomes in human brain organoids. *Nature*, 621(7978), 361-369. doi:10.1038/s41586-022-05279-8
 
 Shi, T., Korshunova, M., Kim, S., DeTomaso, D., Zheng, X., et al. (2026). Genome-scale functional mapping of the mammalian whole brain with in vivo Perturb-seq. doi:10.64898/2026.03.16.711480
+
+
+---
+
+> **주요 용어 안내**
+>
+> **CRISPR 스크리닝**: CRISPR 기술을 이용하여 수백~수천 개의 유전자를 체계적으로 교란하고, 각 교란의 효과를 대규모로 분석하는 실험 방법. 오가노이드나 살아있는 뇌에서 수행된다.
+>
+> **유전적 필수성(genetic essentiality)**: 특정 유전자가 특정 세포 유형의 생존이나 기능에 필수적인 정도. 어떤 유전자는 뇌 전체에서 필수적이고, 어떤 유전자는 특정 세포 유형에서만 필수적이다.

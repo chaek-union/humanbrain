@@ -64,7 +64,7 @@ Psychiatric Genomics Consortium(PGC)은 정신 질환 유전학에서 비슷한 
 
 ---
 
-**References**
+References
 
 BRAIN Initiative Cell Census Network (BICCN). (2021). A multimodal cell census and atlas of the mammalian primary motor cortex. *Nature*, 598, 86-102. doi:10.1038/s41586-021-03950-0
 

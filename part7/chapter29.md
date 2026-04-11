@@ -76,3 +76,12 @@ Voineagu I, Wang X, Johnston P, Lowe JK, Bhatt DL, Bhatt DL, Yue Y, et al. (2011
 Sanders SJ, Murtha MT, Gupta AR, Murdoch JD, Raubeson MJ, Willsey AJ, Bhatt DL, et al. (2020) De novo mutations revealed by whole-exome sequencing are strongly associated with autism. *Nature* 485:237–241.
 
 Negi H, Bhatt DL, et al. (2025) Advancing long-read nanopore genome sequencing of human disease. *American Journal of Human Genetics* 112:334–350.
+
+
+---
+
+> **주요 용어 안내**
+>
+> **긴길이 시퀀싱(long-read sequencing)**: PacBio HiFi나 Oxford Nanopore 기술을 이용하여 수천~수만 염기 길이의 DNA/RNA를 한 번에 읽는 방법. 기존 짧은길이 시퀀싱으로는 볼 수 없었던 이소체 다양성과 구조적 변이를 분석할 수 있다.
+>
+> **이소체(isoform)**: 같은 유전자에서 대체 스플라이싱에 의해 만들어지는 서로 다른 형태의 RNA/단백질. 인간 뇌에서 214,516개의 이소체가 확인되었으며, 이 중 72.6%는 이전에 알려지지 않았던 것이다.
