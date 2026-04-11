@@ -3,7 +3,7 @@
 * [들어가며](README.md)
 * [서문](getting-started.md)
 
-## Part 1. 인간 뇌 전사체의 시작
+## Part 1. 인간 뇌 오믹스 연구의 시작
 
 * [Chapter 1. 왜 뇌 유전체를 연구하는가](part1/chapter1.md)
 * [Chapter 2. 시공간 전사체의 탄생](part1/chapter2.md)
