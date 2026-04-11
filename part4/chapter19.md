@@ -89,3 +89,16 @@ Sullivan, P. F., & Posthuma, D. (2015). Biological pathways and networks implica
 Fu, J. M., Satterstrom, F. K., Peng, M., Brand, H., Collins, R. L., Dong, S., ... & Talkowski, M. E. (2022). Rare coding variation provides insight into the genetic architecture and phenotypic context of autism. *Nature Genetics*, 54(9), 1320–1331. doi:10.1038/s41588-022-01104-0
 
 Darbandi, S. F., Robinson, M. D., & An, J. Y. (2024). ASD transcriptional regulators share promoter-proximal binding in fetal cortex. *Nature*, 629, 120–128. doi:10.1038/s41586-024-07303-5
+
+
+---
+
+> **주요 용어 안내**
+>
+> **엑솜 시퀀싱(exome sequencing)**: 유전체에서 단백질을 코딩하는 엑손 부분만 선택적으로 시퀀싱하는 방법. 전체 유전체의 약 1.5%만 읽지만, 질환을 일으키는 유전변이의 대부분이 이 영역에 위치한다.
+>
+> **복제수 변이(copy number variant, CNV)**: 유전체의 일부가 결실되거나 중복되어 유전자의 복제 수가 변하는 유전변이. 단일 염기 변이보다 크기가 크며, 여러 유전자를 동시에 영향을 미칠 수 있다.
+>
+> **FMRP 표적 유전자**: 취약 X 증후군을 일으키는 FMR1 유전자가 만드는 단백질(FMRP)이 조절하는 유전자들의 목록. 시냅스 기능 유전자가 많이 포함되어 있으며, 자폐스펙트럼장애와 조현병의 위험 유전자들이 이 목록에서 빈번하게 발견된다.
+>
+> **조절 수렴(regulatory convergence)**: 서로 다른 위험 유전자들이 같은 전사인자에 의해 공통으로 조절된다는 발견. 경로 수준의 수렴보다 한 단계 위에서, 왜 여러 경로가 함께 교란되는지를 설명한다.

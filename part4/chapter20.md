@@ -98,3 +98,14 @@ Chow, M. L., Li, H. R., Winn, M. E., April, C., Barnes, C. C., Wynshaw-Boris, A.
 Bellenguez, C., Küçükali, F., Jansen, I. E., Kleineidam, L., Moreno-Grau, S., Amin, N., ... & Lambert, J. C. (2022). New insights into the genetic etiology of Alzheimer's disease and related dementias. *Nature Genetics*, 54(4), 412–436. doi:10.1038/s41588-022-01024-z
 
 Kim, S., Lee, J., Koh, I. G., Ji, J., Kim, H. J., Kim, E., Park, J., Park, J.-E., & An, J.-Y. (2024). An integrative single-cell atlas for exploring the cellular and temporal specificity of genes related to neurological disorders during human brain development. *Experimental & Molecular Medicine*, 56, 2313–2325. doi:10.1038/s12276-024-01328-6
+
+
+---
+
+> **주요 용어 안내**
+>
+> **시공간적 수렴(spatio-temporal convergence)**: 위험 유전자들이 뇌의 특정 영역, 특정 발달 시점, 특정 세포 유형에서 집중적으로 발현되는 현상. "어떤 유전자가 위험한가"뿐 아니라 "언제, 어디서, 어떤 세포에서 위험한가"를 묻는 관점이다.
+>
+> **GWAS(전장 유전체 연관 분석)**: 수십만 명의 유전체를 비교하여 특정 형질이나 질환과 통계적으로 연관된 DNA 변이를 찾는 대규모 분석. 흔한 변이(common variant)의 작은 효과를 집단 수준에서 검출한다.
+>
+> **세포 유형 특이적 발현(cell-type-specific expression)**: 특정 유전자가 뇌의 모든 세포가 아니라 특정 세포 유형에서만 발현되는 현상. 질환 위험 유전자가 어떤 세포에서 작동하는지를 알아야 그 유전자의 역할을 이해할 수 있다.

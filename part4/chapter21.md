@@ -110,3 +110,14 @@ Ben-Shalom, R., Keeshen, C. M., Berrios, K. N., An, J. Y., Sanders, S. J., & Bha
 Crawley, J. N., Heyer, W. D., & LaSalle, J. M. (2016). Autism and cancer share risk genes, pathways, and drug targets. *Trends in Genetics*, 32(3), 139–146. doi:10.1016/j.tig.2016.01.001
 
 Tang, G., Gudsnuk, K., Kuo, S. H., Cotrina, M. L., Rosoklija, G., Sosunov, A., ... & Bhatt, D. L. (2014). Loss of mTOR-dependent macroautophagy causes autistic-like synaptic pruning deficits. *Neuron*, 83(5), 1131–1143. doi:10.1016/j.neuron.2014.07.040
+
+
+---
+
+> **주요 용어 안내**
+>
+> **다면발현(pleiotropy)**: 하나의 유전자나 유전변이가 여러 가지 서로 다른 형질에 동시에 영향을 미치는 현상. 같은 유전변이가 한 사람에게는 자폐스펙트럼장애, 다른 사람에게는 뇌전증으로 나타날 수 있는 이유를 설명한다.
+>
+> **기능 획득/기능 상실(gain-of-function / loss-of-function)**: 유전변이의 결과로 단백질의 기능이 과도해지거나(획득) 없어지는(상실) 것. 같은 유전자라도 변이의 방향에 따라 전혀 다른 임상 결과를 초래할 수 있다.
+>
+> **옴니제닉 모델(omnigenic model)**: 질환 관련 세포에서 발현되는 거의 모든 유전자가 조절 네트워크를 통해 간접적으로 질환에 기여할 수 있다는 모델. 소수의 핵심 유전자만이 아니라 수천 개의 유전자가 작은 효과를 합산하여 위험을 형성한다.
