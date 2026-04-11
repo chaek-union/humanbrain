@@ -53,3 +53,18 @@ Korsunsky, I., Millard, N., Fan, J., Slowikowski, K., Zhang, F., Wei, K., ... & 
 Lopez, R., Regier, J., Cole, M. B., Jordan, M. I., & Yosef, N. (2018). Deep generative modeling for single-cell transcriptomics. *Nature Methods*, 15(12), 1053-1058. doi:10.1038/s41592-018-0229-2
 
 BICCN (Brain Initiative Cell Census Network). (2021). A multimodal cell census and atlas of the mammalian primary motor cortex. *Nature*, 598(7879), 86-102. doi:10.1038/s41586-021-03950-0
+
+
+---
+
+> **주요 용어 안내**
+>
+> **드롭렛(droplet)**: 미세유체역학 칩에서 오일로 감싸 만드는 지름 약 100 마이크로미터의 기름방울. 각 방울 안에 세포 하나와 바코드 비드 하나가 들어가 개별 세포의 RNA를 분리된 공간에서 처리할 수 있게 한다.
+>
+> **세포 바코드(cell barcode)와 UMI(unique molecular identifier)**: 세포 바코드는 각 세포를 구분하는 고유 서열이고, UMI는 같은 세포 안에서 동일한 mRNA 분자를 중복 측정하는 오류를 제거하기 위한 고유 서열이다.
+>
+> **UMAP**: 수만 개의 유전자 발현 정보를 가진 세포를 2차원 지도 위의 점으로 표현하는 시각화 방법. 가까운 점들은 유전자 발현이 유사한 세포들이다. 단, 점 사이의 절대적 거리를 그대로 해석하면 안 된다.
+>
+> **배치 효과(batch effect)**: 서로 다른 날, 다른 실험실에서 수행된 실험 사이에 생기는 기술적 차이. 같은 세포 유형이 실험 조건 차이 때문에 다른 집단처럼 보이는 현상이다.
+>
+> **snRNA-seq(단일 핵 RNA 시퀀싱)**: 세포 전체가 아니라 핵만 분리하여 시퀀싱하는 방법. 냉동 보존된 사후 뇌 조직에서도 적용할 수 있어 인간 뇌 연구의 표준이 되었다.
