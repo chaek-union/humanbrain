@@ -2,6 +2,7 @@
 
 * [들어가며](README.md)
 * [서문](getting-started.md)
+* [학생용 학습 길잡이](student-guide.md)
 
 ## Part 1. 인간 뇌 오믹스 연구의 시작
 
